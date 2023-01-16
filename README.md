@@ -1,2 +1,2 @@
 # HackerRank_Python
-all codes of HackerRank Python preparation.
+All codes of HackerRank Python preparation.
